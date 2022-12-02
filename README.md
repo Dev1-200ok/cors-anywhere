@@ -167,7 +167,6 @@ export CORSANYWHERE_RATELIMIT='50 3 my.example.com my2.example.com'
 node server.js
 ```
 
-
 ## License
 
 Copyright (C) 2013 - 2021 Rob Wu <rob@robwu.nl>
